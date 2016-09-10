@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TouchTypes</string>
+
+
+    <string name="ansField">Enter Answer Here</string>
+    <string name="scoreLabel">Score:</string>
+    <string name="timeLabel">Time:</string>
+    <string name="score">0</string>
+    <string name="enter">Play</string>
+    <string name="wordLabel">Your Word</string>
+    <string name="newGame">New Game</string>
+
+</resources>
